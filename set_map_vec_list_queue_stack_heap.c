@@ -43,7 +43,7 @@ s.push(key);
 s.pop();
 
 
-//heap:
+//heap: 10M个数中选20个最小值 minheap
 #include<iostream> 
 #include<algorithm> // for heap  
 #include<vector> 
